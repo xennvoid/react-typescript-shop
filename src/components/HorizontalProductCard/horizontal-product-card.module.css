@@ -1,0 +1,116 @@
+.product {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 35px 25px;
+    cursor: pointer;
+    background-color: #fff;
+}
+
+.product:hover {
+    position: relative;
+    z-index: 10;
+    box-shadow: 0px 5px 15px 0px rgba(0, 0, 0, 0.14);   
+}
+
+.product:hover .actions{
+    
+}
+
+.left {
+
+}
+
+.availability {
+
+}
+
+.available, .unavailable {
+    display: flex;
+    align-items: center;
+    column-gap: 5px;
+    font-size: 10px;
+    line-height: 21px;
+}
+
+.available {
+    color: #78A962;
+}
+
+.unavailable {
+    color: #C94D3F;
+}
+
+.image {
+    
+}
+
+.image img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.rating {
+    margin-bottom: 10px;
+}
+
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.name {
+    max-width: 185px;
+    margin-bottom: 10px;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.name a {
+    color: #000;
+}
+
+.name:hover a{
+    text-decoration: underline;
+    color: #C94D3F;
+}
+
+.prices {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.price {
+    font-size: 14px;
+    line-height: 20px;
+    text-decoration: line-through;
+    color: #666666;
+}
+
+.discounted {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.actions {
+    display: flex;
+    align-items: center;
+}
+
+.actions > * {
+    margin-right: 5px;
+}
+
+.actions > *:last-child {
+    margin-right: 0;
+}

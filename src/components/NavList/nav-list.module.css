@@ -1,0 +1,20 @@
+.lists {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-bottom: 35px;
+    font-size: 13px;
+}
+
+@media screen and (max-width:992px){
+    .lists {
+        padding:  0 20px;
+        flex-direction: column;
+        gap: 1rem;
+    }
+}
+
+.links {
+    margin: 0 0 0 15px;
+    color: #A2A6B0;
+}

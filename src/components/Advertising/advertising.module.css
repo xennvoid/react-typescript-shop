@@ -1,0 +1,66 @@
+.ad {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 18px;
+    padding: 22px 0;
+    font-size: 18px;
+    line-height: 22px;
+    color: #272560;
+    background: #F5F7FF;
+}
+
+@media screen and (max-width: 600px) {
+    .ad {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+
+.ad:hover {
+    
+}
+
+.logo {
+    
+}
+
+.logo img {
+    padding-right: 11.5px;
+    border-right: 2px solid #00AEB8;
+}
+
+.highlighted {
+    margin-left: 14.5px;
+    font-weight: 600;
+}
+
+@media screen and (max-width: 600px) {
+    .highlighted {
+        margin-left: 0;
+    }
+}
+
+.inscription {
+    
+}
+
+@media screen and (max-width: 600px) {
+    .inscription {
+        text-align: center;
+    }
+}
+
+.more {
+    margin-left: 5px;
+    font-size: 14px;
+    line-height: 17px;
+    text-decoration: underline;
+    color: #272560;
+}
+
+@media screen and (max-width: 600px) {
+    .more {
+        margin-left: 0;
+    }
+}

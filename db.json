@@ -1,0 +1,1993 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Dell XPS 13",
+            "brand": "Dell",
+            "image": "dell-xps-13.jpg",
+            "category": "Ultrabook",
+            "product_type": "laptops",
+            "country": "United States",
+            "description": "The Dell XPS 13 is a sleek and powerful ultrabook that offers excellent performance and a stunning display.",
+            "price": 1299,
+            "discounted_price": 1199,
+            "availability": true,
+            "rating": 4.5,
+            "colors": [
+                "White",
+                "Gold"
+            ],
+            "new": true
+        },
+        {
+            "id": 2,
+            "name": "MacBook Pro",
+            "brand": "Apple",
+            "image": "mac-book-pro.jpg",
+            "category": "Laptop",
+            "product_type": "laptops",
+            "country": "United States",
+            "description": "The MacBook Pro is a high-performance laptop designed for professionals, offering a premium design and cutting-edge features.",
+            "price": 1799,
+            "discounted_price": 1699,
+            "availability": true,
+            "rating": 4.8,
+            "colors": [
+                "Gray",
+                "White"
+            ],
+            "new": true
+        },
+        {
+            "id": 3,
+            "name": "HP Spectre x360",
+            "brand": "HP",
+            "image": "hp-spectre-x360.jpg",
+            "category": "Convertible Laptop",
+            "product_type": "laptops",
+            "country": "United States",
+            "description": "The HP Spectre x360 is a versatile and stylish convertible laptop with a flexible hinge and excellent performance.",
+            "price": 1299,
+            "discounted_price": 1199,
+            "availability": false,
+            "rating": 4.6,
+            "colors": [
+                "Blue",
+                "Black"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Lenovo ThinkPad X1 Carbon",
+            "brand": "Lenovo",
+            "image": "lenovo-thinkpad-x1-carbon.jpg",
+            "category": "Ultrabook",
+            "product_type": "laptops",
+            "country": "China",
+            "description": "The Lenovo ThinkPad X1 Carbon is a business-oriented ultrabook known for its durability and exceptional keyboard.",
+            "price": 1499,
+            "discounted_price": 1399,
+            "availability": true,
+            "rating": 4.4,
+            "colors": [
+                "Black"
+            ],
+            "new": true
+        },
+        {
+            "id": 5,
+            "name": "ASUS ROG Zephyrus G14",
+            "brand": "ASUS",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Gaming Laptop",
+            "product_type": "laptops",
+            "country": "Taiwan",
+            "description": "The ASUS ROG Zephyrus G14 is a powerful gaming laptop with a compact design and high-refresh-rate display.",
+            "price": 1599,
+            "discounted_price": 1499,
+            "availability": true,
+            "rating": 4.7,
+            "colors": [
+                "White",
+                "Gray"
+            ],
+            "new": true
+        },
+        {
+            "id": 6,
+            "name": "Acer Swift 3",
+            "brand": "Acer",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Ultrabook",
+            "product_type": "laptops",
+            "country": "Taiwan",
+            "description": "The Acer Swift 3 is a budget-friendly ultrabook that offers good performance and long battery life.",
+            "price": 799,
+            "discounted_price": 749,
+            "availability": true,
+            "rating": 4.2,
+            "colors": [
+                "Silver",
+                "Blue"
+            ],
+            "new": true
+        },
+        {
+            "id": 7,
+            "name": "Microsoft Surface Laptop 4",
+            "brand": "Microsoft",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Laptop",
+            "product_type": "laptops",
+            "country": "United States",
+            "description": "The Microsoft Surface Laptop 4 is a premium device that combines power, portability, and a stunning touchscreen display.",
+            "price": 1299,
+            "discounted_price": 1199,
+            "availability": true,
+            "rating": 4.3,
+            "colors": [
+                "Blue",
+                "Black"
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Razer Blade 15",
+            "brand": "Razer",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Gaming Laptop",
+            "product_type": "laptops",
+            "country": "United States",
+            "description": "The Razer Blade 15 is a high-performance gaming laptop with a sleek design and a responsive display.",
+            "price": 1999,
+            "discounted_price": 1899,
+            "availability": true,
+            "rating": 4.9,
+            "colors": [
+                "White",
+                "Black"
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Alienware Area-51m",
+            "brand": "Alienware",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Gaming Laptop",
+            "product_type": "laptops",
+            "country": "United States",
+            "description": "The Alienware Area-51m is a powerful gaming laptop with upgradeable components and futuristic aesthetics.",
+            "price": 2399,
+            "discounted_price": 2199,
+            "availability": true,
+            "rating": 4.7,
+            "colors": [
+                "White"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "HP Envy 13",
+            "brand": "HP",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Ultrabook",
+            "product_type": "laptops",
+            "country": "United States",
+            "description": "The HP Envy 13 is a slim and lightweight ultrabook with solid performance and a vibrant display.",
+            "price": 999,
+            "discounted_price": 899,
+            "availability": true,
+            "rating": 4.2,
+            "colors": [
+                "Silver",
+                "Black"
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Lenovo Yoga C940",
+            "brand": "Lenovo",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Convertible Laptop",
+            "product_type": "laptops",
+            "country": "China",
+            "description": "The Lenovo Yoga C940 is a premium convertible laptop that offers impressive performance and a versatile design.",
+            "price": 1399,
+            "discounted_price": 1299,
+            "availability": true,
+            "rating": 4.6,
+            "colors": [
+                "Gray"
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Dell G5 15",
+            "brand": "Dell",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Gaming Laptop",
+            "product_type": "laptops",
+            "country": "United States",
+            "description": "The Dell G5 15 is a gaming laptop that combines powerful hardware with a high-refresh-rate display for an immersive gaming experience.",
+            "price": 1299,
+            "discounted_price": 1199,
+            "availability": true,
+            "rating": 4.4,
+            "colors": [
+                "Black",
+                "Red"
+            ]
+        },
+        {
+            "id": 13,
+            "name": "ASUS ZenBook 14",
+            "brand": "ASUS",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Ultrabook",
+            "product_type": "laptops",
+            "country": "Taiwan",
+            "description": "The ASUS ZenBook 14 is an ultrabook that offers a compact design, excellent battery life, and a bright display.",
+            "price": 1099,
+            "discounted_price": 999,
+            "availability": true,
+            "rating": 4.3,
+            "colors": [
+                "Gray"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "MSI GS66 Stealth",
+            "brand": "MSI",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Gaming Laptop",
+            "product_type": "laptops",
+            "country": "Taiwan",
+            "description": "The MSI GS66 Stealth is a high-performance gaming laptop with a sleek design and a high-refresh-rate display.",
+            "price": 1799,
+            "discounted_price": 1699,
+            "availability": true,
+            "rating": 4.8,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Acer Predator Helios 300",
+            "brand": "Acer",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Gaming Laptop",
+            "product_type": "laptops",
+            "country": "Taiwan",
+            "description": "The Acer Predator Helios 300 is a budget-friendly gaming laptop with a powerful processor and a high-refresh-rate display.",
+            "price": 1199,
+            "discounted_price": 1099,
+            "availability": true,
+            "rating": 4.5,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "HP Pavilion x360",
+            "brand": "HP",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Convertible Laptop",
+            "product_type": "laptops",
+            "country": "United States",
+            "description": "The HP Pavilion x360 is a versatile convertible laptop that offers solid performance and a responsive touchscreen.",
+            "price": 899,
+            "discounted_price": 799,
+            "availability": true,
+            "rating": 4.2,
+            "colors": [
+                "Silver"
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Lenovo Legion 5",
+            "brand": "Lenovo",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Gaming Laptop",
+            "product_type": "laptops",
+            "country": "China",
+            "description": "The Lenovo Legion 5 is a gaming laptop with powerful hardware, a high-refresh-rate display, and a sleek design.",
+            "price": 1399,
+            "discounted_price": 1299,
+            "availability": true,
+            "rating": 4.6,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Dell Inspiron 15",
+            "brand": "Dell",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Laptop",
+            "product_type": "laptops",
+            "country": "United States",
+            "description": "The Dell Inspiron 15 is an affordable laptop that offers reliable performance and a large display for everyday computing tasks.",
+            "price": 799,
+            "discounted_price": 749,
+            "availability": true,
+            "rating": 4.1,
+            "colors": [
+                "Black",
+                "Silver"
+            ]
+        },
+        {
+            "id": 19,
+            "name": "ASUS VivoBook S15",
+            "brand": "ASUS",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Laptop",
+            "product_type": "laptops",
+            "country": "Taiwan",
+            "description": "The ASUS VivoBook S15 is a stylish and lightweight laptop with a vibrant display and a comfortable keyboard.",
+            "price": 999,
+            "discounted_price": 899,
+            "availability": true,
+            "rating": 4.3,
+            "colors": [
+                "Black",
+                "Red",
+                "Green"
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Microsoft Surface Book 3",
+            "brand": "Microsoft",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Convertible Laptop",
+            "product_type": "laptops",
+            "country": "United States",
+            "description": "The Microsoft Surface Book 3 is a high-performance convertible laptop that offers a detachable display and versatile functionality.",
+            "price": 1999,
+            "discounted_price": 1899,
+            "availability": true,
+            "rating": 4.7,
+            "colors": [
+                "White"
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Razer Blade Stealth 13",
+            "brand": "Razer",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Ultrabook",
+            "product_type": "laptops",
+            "country": "United States",
+            "description": "The Razer Blade Stealth 13 is a compact ultrabook that offers powerful performance and a high-resolution display.",
+            "price": 1499,
+            "discounted_price": 1399,
+            "availability": true,
+            "rating": 4.4,
+            "colors": [
+                "White",
+                "Black"
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Alienware m15 R4",
+            "brand": "Alienware",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Gaming Laptop",
+            "product_type": "laptops",
+            "country": "United States",
+            "description": "The Alienware m15 R4 is a high-performance gaming laptop with a slim design and advanced cooling technology.",
+            "price": 2199,
+            "discounted_price": 2099,
+            "availability": true,
+            "rating": 4.8,
+            "colors": [
+                "White",
+                "Black"
+            ]
+        },
+        {
+            "id": 23,
+            "name": "HP Omen 15",
+            "brand": "HP",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Gaming Laptop",
+            "product_type": "laptops",
+            "country": "United States",
+            "description": "The HP Omen 15 is a gaming laptop with powerful hardware, a high-refresh-rate display, and a customizable keyboard.",
+            "price": 1399,
+            "discounted_price": 1299,
+            "availability": true,
+            "rating": 4.6,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Lenovo IdeaPad 5",
+            "brand": "Lenovo",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Laptop",
+            "product_type": "laptops",
+            "country": "China",
+            "description": "The Lenovo IdeaPad 5 is a mid-range laptop that offers a good balance of performance, portability, and affordability.",
+            "price": 799,
+            "discounted_price": 749,
+            "availability": true,
+            "rating": 4.2,
+            "colors": [
+                "Gray",
+                "Blue"
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Dell Latitude 7420",
+            "brand": "Dell",
+            "image": "asus-rog-zephyrus-g14.jpg",
+            "category": "Business Laptop",
+            "product_type": "laptops",
+            "country": "United States",
+            "description": "The Dell Latitude 7420 is a premium business laptop that offers enterprise-grade security features and long battery life.",
+            "price": 1499,
+            "discounted_price": 1399,
+            "availability": true,
+            "rating": 4.4,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Dell XPS 8930 Special Edition",
+            "brand": "Dell",
+            "image": "desktop.jpg",
+            "category": "Desktop PC",
+            "product_type": "desktops",
+            "country": "United States",
+            "description": "The Dell XPS 8930 Special Edition is a powerful desktop PC with premium design and high-performance components.",
+            "price": 1699,
+            "discounted_price": 1599,
+            "availability": true,
+            "rating": 4.7,
+            "colors": [
+                "Silver",
+                "Black"
+            ]
+        },
+        {
+            "id": 27,
+            "name": "HP ENVY 32 All-in-One",
+            "brand": "HP",
+            "image": "desktop.jpg",
+            "category": "All-in-One PC",
+            "product_type": "desktops",
+            "country": "United States",
+            "description": "The HP ENVY 32 All-in-One is a sleek and powerful all-in-one PC with a large 32-inch display and high-end specifications.",
+            "price": 2299,
+            "discounted_price": 2199,
+            "availability": true,
+            "rating": 4.8,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Lenovo ThinkCentre M920 Tower",
+            "brand": "Lenovo",
+            "image": "desktop.jpg",
+            "category": "Tower PC",
+            "product_type": "desktops",
+            "country": "China",
+            "description": "The Lenovo ThinkCentre M920 Tower is a business-oriented tower PC with reliable performance and enterprise-grade security.",
+            "price": 1299,
+            "discounted_price": 1199,
+            "availability": true,
+            "rating": 4.5,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 29,
+            "name": "ASUS ROG Strix G15",
+            "brand": "ASUS",
+            "image": "desktop.jpg",
+            "category": "Gaming Desktop",
+            "product_type": "desktops",
+            "country": "Taiwan",
+            "description": "The ASUS ROG Strix G15 is a high-performance gaming desktop with RGB lighting and powerful components for an immersive gaming experience.",
+            "price": 1799,
+            "discounted_price": 1699,
+            "availability": true,
+            "rating": 4.7,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Acer Aspire TC",
+            "brand": "Acer",
+            "image": "desktop.jpg",
+            "category": "Tower PC",
+            "product_type": "desktops",
+            "country": "Taiwan",
+            "description": "The Acer Aspire TC is an affordable tower PC that offers reliable performance for everyday computing tasks.",
+            "price": 699,
+            "discounted_price": 649,
+            "availability": true,
+            "rating": 4.2,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 31,
+            "name": "HP Pavilion Desktop",
+            "brand": "HP",
+            "image": "desktop.jpg",
+            "category": "Desktop PC",
+            "product_type": "desktops",
+            "country": "United States",
+            "description": "The HP Pavilion Desktop is a budget-friendly desktop PC with modern design and decent performance for daily tasks.",
+            "price": 499,
+            "discounted_price": 449,
+            "availability": true,
+            "rating": 4.1,
+            "colors": [
+                "Silver",
+                "Black"
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Lenovo IdeaCentre AIO 5",
+            "brand": "Lenovo",
+            "image": "desktop.jpg",
+            "category": "All-in-One PC",
+            "product_type": "desktops",
+            "country": "China",
+            "description": "The Lenovo IdeaCentre AIO 5 is an all-in-one PC with a sleek design and excellent performance for multimedia tasks.",
+            "price": 999,
+            "discounted_price": 949,
+            "availability": true,
+            "rating": 4.6,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 33,
+            "name": "ASUS TUF Gaming GT301",
+            "brand": "ASUS",
+            "image": "desktop.jpg",
+            "category": "Gaming Desktop",
+            "product_type": "desktops",
+            "country": "Taiwan",
+            "description": "The ASUS TUF Gaming GT301 is a gaming desktop with a rugged design and powerful hardware for smooth gaming performance.",
+            "price": 1499,
+            "discounted_price": 1399,
+            "availability": true,
+            "rating": 4.4,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Acer Predator Orion 3000",
+            "brand": "Acer",
+            "image": "desktop.jpg",
+            "category": "Gaming Desktop",
+            "product_type": "desktops",
+            "country": "Taiwan",
+            "description": "The Acer Predator Orion 3000 is a high-performance gaming desktop with futuristic design and top-notch components.",
+            "price": 1999,
+            "discounted_price": 1899,
+            "availability": true,
+            "rating": 4.7,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Dell Inspiron 3880",
+            "brand": "Dell",
+            "image": "desktop.jpg",
+            "category": "Desktop PC",
+            "product_type": "desktops",
+            "country": "United States",
+            "description": "The Dell Inspiron 3880 is a reliable desktop PC for home and office use with a compact form factor.",
+            "price": 799,
+            "discounted_price": 749,
+            "availability": true,
+            "rating": 4.2,
+            "colors": [
+                "Silver",
+                "Black"
+            ]
+        },
+        {
+            "id": 36,
+            "name": "HP Slimline 290",
+            "brand": "HP",
+            "image": "desktop.jpg",
+            "category": "Desktop PC",
+            "product_type": "desktops",
+            "country": "United States",
+            "description": "The HP Slimline 290 is a compact desktop PC that fits in tight spaces and offers basic computing capabilities.",
+            "price": 399,
+            "discounted_price": 349,
+            "availability": true,
+            "rating": 4.0,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Lenovo Legion Tower 5",
+            "brand": "Lenovo",
+            "image": "desktop.jpg",
+            "category": "Gaming Desktop",
+            "product_type": "desktops",
+            "country": "China",
+            "description": "The Lenovo Legion Tower 5 is a gaming desktop with aggressive styling and powerful hardware for esports enthusiasts.",
+            "price": 1399,
+            "discounted_price": 1299,
+            "availability": true,
+            "rating": 4.6,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 38,
+            "name": "ASUS ProArt Station D940MX",
+            "brand": "ASUS",
+            "image": "desktop.jpg",
+            "category": "Workstation PC",
+            "product_type": "desktops",
+            "country": "Taiwan",
+            "description": "The ASUS ProArt Station D940MX is a powerful workstation desktop optimized for creative professionals.",
+            "price": 2499,
+            "discounted_price": 2399,
+            "availability": true,
+            "rating": 4.8,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Acer Aspire XC",
+            "brand": "Acer",
+            "image": "desktop.jpg",
+            "category": "Mini PC",
+            "product_type": "desktops",
+            "country": "Taiwan",
+            "description": "The Acer Aspire XC is a compact and affordable mini PC suitable for basic computing needs.",
+            "price": 399,
+            "discounted_price": 379,
+            "availability": true,
+            "rating": 4.0,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Dell OptiPlex 3080",
+            "brand": "Dell",
+            "image": "desktop.jpg",
+            "category": "Business PC",
+            "product_type": "desktops",
+            "country": "United States",
+            "description": "The Dell OptiPlex 3080 is a reliable business desktop PC with efficient performance and security features.",
+            "price": 899,
+            "discounted_price": 849,
+            "availability": true,
+            "rating": 4.3,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 41,
+            "name": "Cisco Catalyst 2960",
+            "brand": "Cisco",
+            "image": "cisco-catalyst-2960.jpg",
+            "category": "Managed Switch",
+            "product_type": "networking-devices",
+            "country": "United States",
+            "description": "The Cisco Catalyst 2960 is a reliable managed switch with advanced features for efficient network management.",
+            "price": 799,
+            "discounted_price": 749,
+            "availability": true,
+            "rating": 4.7,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 42,
+            "name": "TP-Link Archer C9",
+            "brand": "TP-Link",
+            "image": "tp-link-archer-c9.jpg",
+            "category": "Wireless Router",
+            "product_type": "networking-devices",
+            "country": "China",
+            "description": "The TP-Link Archer C9 is a high-performance wireless router with dual-band connectivity and advanced security.",
+            "price": 129,
+            "discounted_price": 119,
+            "availability": true,
+            "rating": 4.5,
+            "colors": [
+                "White",
+                "Black"
+            ]
+        },
+        {
+            "id": 43,
+            "name": "Netgear Nighthawk AX12",
+            "brand": "Netgear",
+            "image": "netgear-nighthawk-ax12.jpg",
+            "category": "Wireless Router",
+            "product_type": "networking-devices",
+            "country": "United States",
+            "description": "The Netgear Nighthawk AX12 is a high-speed wireless router with next-gen WiFi 6 technology for ultra-fast connections.",
+            "price": 299,
+            "discounted_price": 279,
+            "availability": true,
+            "rating": 4.8,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 44,
+            "name": "Ubiquiti UniFi Dream Machine",
+            "brand": "Ubiquiti",
+            "image": "ubiquiti-unifi-dream-machine.jpg",
+            "category": "Security Gateway",
+            "product_type": "networking-devices",
+            "country": "United States",
+            "description": "The Ubiquiti UniFi Dream Machine is an all-in-one security gateway with powerful network performance and advanced security features.",
+            "price": 299,
+            "discounted_price": 279,
+            "availability": true,
+            "rating": 4.6,
+            "colors": [
+                "White"
+            ]
+        },
+        {
+            "id": 45,
+            "name": "Linksys Velop Mesh WiFi System",
+            "brand": "Linksys",
+            "image": "linksys-velop-mesh-wifi-system.jpg",
+            "category": "Mesh WiFi System",
+            "product_type": "networking-devices",
+            "country": "United States",
+            "description": "The Linksys Velop Mesh WiFi System provides seamless whole-home coverage with a mesh network of multiple nodes.",
+            "price": 399,
+            "discounted_price": 379,
+            "availability": true,
+            "rating": 4.5,
+            "colors": [
+                "White"
+            ]
+        },
+        {
+            "id": 46,
+            "name": "D-Link DGS-1008G",
+            "brand": "D-Link",
+            "image": "d-link-dgs-1008g.jpg",
+            "category": "Unmanaged Switch",
+            "product_type": "networking-devices",
+            "country": "Taiwan",
+            "description": "The D-Link DGS-1008G is an easy-to-use unmanaged switch for expanding your wired network.",
+            "price": 39,
+            "discounted_price": 35,
+            "availability": true,
+            "rating": 4.2,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 47,
+            "name": "Asus RT-AX86U",
+            "brand": "Asus",
+            "image": "asus-rt-ax86u.jpg",
+            "category": "Wireless Router",
+            "product_type": "networking-devices",
+            "country": "Taiwan",
+            "description": "The Asus RT-AX86U is a gaming-focused wireless router with fast WiFi 6 performance and gaming optimizations.",
+            "price": 249,
+            "discounted_price": 229,
+            "availability": true,
+            "rating": 4.7,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 48,
+            "name": "MikroTik RB750Gr3",
+            "brand": "MikroTik",
+            "image": "mikrotik-rb750gr3.jpg",
+            "category": "Routerboard",
+            "product_type": "networking-devices",
+            "country": "Latvia",
+            "description": "The MikroTik RB750Gr3 is a compact routerboard with advanced features for small to medium-sized networks.",
+            "price": 79,
+            "discounted_price": 69,
+            "availability": true,
+            "rating": 4.4,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 49,
+            "name": "Tenda Nova MW6",
+            "brand": "Tenda",
+            "image": "tenda-nova-mw6.jpg",
+            "category": "Mesh WiFi System",
+            "product_type": "networking-devices",
+            "country": "China",
+            "description": "The Tenda Nova MW6 is a budget-friendly mesh WiFi system that delivers reliable whole-home coverage.",
+            "price": 149,
+            "discounted_price": 139,
+            "availability": true,
+            "rating": 4.3,
+            "colors": [
+                "White"
+            ]
+        },
+        {
+            "id": 50,
+            "name": "Zyxel GS1900-8HP",
+            "brand": "Zyxel",
+            "image": "zyxel-gs1900-8hp.jpg",
+            "category": "Managed PoE Switch",
+            "product_type": "networking-devices",
+            "country": "Taiwan",
+            "description": "The Zyxel GS1900-8HP is a managed PoE switch with advanced features and Power over Ethernet support.",
+            "price": 159,
+            "discounted_price": 149,
+            "availability": true,
+            "rating": 4.4,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 51,
+            "name": "MikroTik hAP ac2",
+            "brand": "MikroTik",
+            "image": "mikrotik-hap-ac2.jpg",
+            "category": "Wireless Router",
+            "product_type": "networking-devices",
+            "country": "Latvia",
+            "description": "The MikroTik hAP ac2 is a dual-band wireless router with built-in antennas for home and small office use.",
+            "price": 79,
+            "discounted_price": 69,
+            "availability": true,
+            "rating": 4.3,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 52,
+            "name": "Netgear Nighthawk X6S",
+            "brand": "Netgear",
+            "image": "netgear-nighthawk-x6s.jpg",
+            "category": "Wireless Router",
+            "product_type": "networking-devices",
+            "country": "United States",
+            "description": "The Netgear Nighthawk X6S is a tri-band wireless router with MU-MIMO technology for high-performance streaming and gaming.",
+            "price": 199,
+            "discounted_price": 189,
+            "availability": true,
+            "rating": 4.6,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 53,
+            "name": "D-Link DIR-878",
+            "brand": "D-Link",
+            "image": "d-link-dir-878.jpg",
+            "category": "Wireless Router",
+            "product_type": "networking-devices",
+            "country": "Taiwan",
+            "description": "The D-Link DIR-878 is a dual-band wireless router with high-gain antennas for extended coverage.",
+            "price": 99,
+            "discounted_price": 89,
+            "availability": true,
+            "rating": 4.2,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 54,
+            "name": "Asus RT-AX82U",
+            "brand": "Asus",
+            "image": "asus-rt-ax82u.jpg",
+            "category": "Wireless Router",
+            "product_type": "networking-devices",
+            "country": "Taiwan",
+            "description": "The Asus RT-AX82U is a gaming-focused dual-band wireless router with Aura RGB lighting and gaming acceleration.",
+            "price": 199,
+            "discounted_price": 189,
+            "availability": true,
+            "rating": 4.7,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 55,
+            "name": "Zyxel Nebula NSG100",
+            "brand": "Zyxel",
+            "image": "zyxel-nebula-nsg100.jpg",
+            "category": "Cloud Managed Security Gateway",
+            "product_type": "networking-devices",
+            "country": "Taiwan",
+            "description": "The Zyxel Nebula NSG100 is a cloud-managed security gateway with VPN support for secure remote access.",
+            "price": 249,
+            "discounted_price": 229,
+            "availability": true,
+            "rating": 4.5,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 56,
+            "name": "Epson EcoTank ET-4760",
+            "brand": "Epson",
+            "image": "epson-ecotank-et-4760.jpg",
+            "category": "All-in-One Printer-Scanner",
+            "product_type": "printers-scanners",
+            "country": "Japan",
+            "description": "The Epson EcoTank ET-4760 is an all-in-one printer-scanner with high-capacity ink tanks for cost-effective printing.",
+            "price": 399,
+            "discounted_price": 369,
+            "availability": true,
+            "rating": 4.7,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 57,
+            "name": "HP LaserJet Pro MFP M227fdw",
+            "brand": "HP",
+            "image": "hp-laserjet-pro-mfp-m227fdw.jpg",
+            "category": "Multifunction Laser Printer-Scanner",
+            "product_type": "printers-scanners",
+            "country": "United States",
+            "description": "The HP LaserJet Pro MFP M227fdw is a monochrome laser printer-scanner with automatic duplex printing.",
+            "price": 299,
+            "discounted_price": 279,
+            "availability": true,
+            "rating": 4.5,
+            "colors": [
+                "White"
+            ]
+        },
+        {
+            "id": 58,
+            "name": "Canon PIXMA TR4520",
+            "brand": "Canon",
+            "image": "canon-pixma-tr4520.jpg",
+            "category": "Wireless All-in-One Printer-Scanner",
+            "product_type": "printers-scanners",
+            "country": "Japan",
+            "description": "The Canon PIXMA TR4520 is a wireless all-in-one printer-scanner with mobile printing capabilities.",
+            "price": 89,
+            "discounted_price": 79,
+            "availability": true,
+            "rating": 4.2,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 59,
+            "name": "Brother MFC-L2750DW",
+            "brand": "Brother",
+            "image": "brother-mfc-l2750dw.jpg",
+            "category": "Monochrome Laser Printer-Scanner",
+            "product_type": "printers-scanners",
+            "country": "Japan",
+            "description": "The Brother MFC-L2750DW is a monochrome laser printer-scanner with automatic document feeder.",
+            "price": 249,
+            "discounted_price": 229,
+            "availability": true,
+            "rating": 4.6,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 60,
+            "name": "Epson WorkForce Pro WF-4740",
+            "brand": "Epson",
+            "image": "epson-workforce-pro-wf-4740.jpg",
+            "category": "All-in-One Printer-Scanner",
+            "product_type": "printers-scanners",
+            "country": "Japan",
+            "description": "The Epson WorkForce Pro WF-4740 is an all-in-one color inkjet printer-scanner with high-speed printing.",
+            "price": 299,
+            "discounted_price": 279,
+            "availability": true,
+            "rating": 4.8,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 61,
+            "name": "HP OfficeJet Pro 9015",
+            "brand": "HP",
+            "image": "hp-officejet-pro-9015.jpg",
+            "category": "All-in-One Printer-Scanner",
+            "product_type": "printers-scanners",
+            "country": "United States",
+            "description": "The HP OfficeJet Pro 9015 is an all-in-one color inkjet printer-scanner with mobile printing capabilities.",
+            "price": 229,
+            "discounted_price": 209,
+            "availability": true,
+            "rating": 4.7,
+            "colors": [
+                "White"
+            ]
+        },
+        {
+            "id": 62,
+            "name": "Canon imageFORMULA DR-C225 II",
+            "brand": "Canon",
+            "image": "canon-imageformula-dr-c225-ii.jpg",
+            "category": "Document Scanner",
+            "product_type": "printers-scanners",
+            "country": "Japan",
+            "description": "The Canon imageFORMULA DR-C225 II is a compact document scanner with duplex scanning.",
+            "price": 399,
+            "discounted_price": 379,
+            "availability": true,
+            "rating": 4.5,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 63,
+            "name": "Brother ADS-2200",
+            "brand": "Brother",
+            "image": "brother-ads-2200.jpg",
+            "category": "Document Scanner",
+            "product_type": "printers-scanners",
+            "country": "Japan",
+            "description": "The Brother ADS-2200 is a high-speed document scanner with versatile media handling.",
+            "price": 249,
+            "discounted_price": 229,
+            "availability": true,
+            "rating": 4.3,
+            "colors": [
+                "White"
+            ]
+        },
+        {
+            "id": 64,
+            "name": "Epson Perfection V600",
+            "brand": "Epson",
+            "image": "epson-perfection-v600.jpg",
+            "category": "Flatbed Photo Scanner",
+            "product_type": "printers-scanners",
+            "country": "Japan",
+            "description": "The Epson Perfection V600 is a flatbed photo scanner with high-resolution scanning.",
+            "price": 229,
+            "discounted_price": 209,
+            "availability": true,
+            "rating": 4.4,
+            "colors": [
+                "Black"
+            ]
+        },
+        {
+            "id": 65,
+            "name": "Fujitsu ScanSnap iX1500",
+            "brand": "Fujitsu",
+            "image": "fujitsu-scansnap-ix1500.jpg",
+            "category": "Document Scanner",
+            "product_type": "printers-scanners",
+            "country": "Japan",
+            "description": "The Fujitsu ScanSnap iX1500 is a wireless document scanner with touch screen operation.",
+            "price": 429,
+            "discounted_price": 399,
+            "availability": true,
+            "rating": 4.6,
+            "colors": [
+                "White"
+            ]
+        },
+        {
+            "id": 66,
+            "name": "ASUS ROG Swift PG279Q",
+            "brand": "ASUS",
+            "image": "asus-rog-swift-pg279q.jpg",
+            "category": "Gaming Monitor",
+            "product_type": "gaming-monitors",
+            "country": "Taiwan",
+            "description": "The ASUS ROG Swift PG279Q is a high-performance gaming monitor with a fast refresh rate and G-Sync support.",
+            "price": 699,
+            "discounted_price": 599,
+            "availability": true,
+            "rating": 4.8,
+            "colors": [
+                "Black",
+                "Red"
+            ],
+            "new": true
+        },
+        {
+            "id": 67,
+            "name": "Acer Predator XB271HU",
+            "brand": "Acer",
+            "image": "acer-predator-xb271hu.jpg",
+            "category": "Gaming Monitor",
+            "product_type": "gaming-monitors",
+            "country": "Taiwan",
+            "description": "The Acer Predator XB271HU is a top-tier gaming monitor with a high-resolution display and NVIDIA G-Sync.",
+            "price": 799,
+            "discounted_price": 749,
+            "availability": true,
+            "rating": 4.7,
+            "colors": [
+                "Black",
+                "Silver"
+            ],
+            "new": false
+        },
+        {
+            "id": 68,
+            "name": "LG 27GL850-B",
+            "brand": "LG",
+            "image": "lg-27gl850-b.jpg",
+            "category": "Gaming Monitor",
+            "product_type": "gaming-monitors",
+            "country": "South Korea",
+            "description": "The LG 27GL850-B is a high-quality gaming monitor with a fast refresh rate and accurate colors.",
+            "price": 549,
+            "discounted_price": 499,
+            "availability": true,
+            "rating": 4.6,
+            "colors": [
+                "Black",
+                "White"
+            ],
+            "new": true
+        },
+        {
+            "id": 69,
+            "name": "ViewSonic XG2402",
+            "brand": "ViewSonic",
+            "image": "viewsonic-xg2402.jpg",
+            "category": "Gaming Monitor",
+            "product_type": "gaming-monitors",
+            "country": "United States",
+            "description": "The ViewSonic XG2402 is an affordable gaming monitor with a high refresh rate and low input lag.",
+            "price": 249,
+            "discounted_price": 229,
+            "availability": true,
+            "rating": 4.4,
+            "colors": [
+                "Black"
+            ],
+            "new": true
+        },
+        {
+            "id": 70,
+            "name": "BenQ EX2780Q",
+            "brand": "BenQ",
+            "image": "benq-ex2780q.jpg",
+            "category": "Gaming Monitor",
+            "product_type": "gaming-monitors",
+            "country": "Taiwan",
+            "description": "The BenQ EX2780Q is a feature-packed gaming monitor with HDR support and built-in speakers.",
+            "price": 449,
+            "discounted_price": 399,
+            "availability": true,
+            "rating": 4.5,
+            "colors": [
+                "Black",
+                "Grey"
+            ],
+            "new": false
+        },
+        {
+            "id": 71,
+            "name": "Dell Inspiron 3671",
+            "brand": "Dell",
+            "image": "desktop.jpg",
+            "category": "Desktop",
+            "product_type": "desktops",
+            "country": "United States",
+            "description": "The Dell Inspiron 3671 is a reliable desktop computer with ample storage and processing power.",
+            "price": 699,
+            "discounted_price": 649,
+            "availability": true,
+            "rating": 4.2,
+            "colors": [
+                "Black",
+                "Silver"
+            ],
+            "new": true
+        },
+        {
+            "id": 72,
+            "name": "Dell XPS 8940",
+            "brand": "Dell",
+            "image": "desktop.jpg",
+            "category": "Desktop",
+            "product_type": "desktops",
+            "country": "United States",
+            "description": "The Dell XPS 8940 is a high-performance desktop with a sleek design and powerful components.",
+            "price": 1199,
+            "discounted_price": 1099,
+            "availability": true,
+            "rating": 4.8,
+            "colors": [
+                "Black"
+            ],
+            "new": true
+        },
+        {
+            "id": 73,
+            "name": "Dell OptiPlex 5070",
+            "brand": "Dell",
+            "image": "desktop.jpg",
+            "category": "Desktop",
+            "product_type": "desktops",
+            "country": "United States",
+            "description": "The Dell OptiPlex 5070 is a compact and efficient desktop computer suitable for office use.",
+            "price": 549,
+            "discounted_price": 499,
+            "availability": true,
+            "rating": 4.4,
+            "colors": [
+                "Black",
+                "Grey"
+            ],
+            "new": false
+        },
+        {
+            "id": 74,
+            "name": "Dell Alienware Aurora R12",
+            "brand": "Dell",
+            "image": "desktop.jpg",
+            "category": "Gaming Desktop",
+            "product_type": "desktops",
+            "country": "United States",
+            "description": "The Dell Alienware Aurora R12 is a powerful gaming desktop with a futuristic design and advanced cooling.",
+            "price": 1899,
+            "discounted_price": 1799,
+            "availability": true,
+            "rating": 4.9,
+            "colors": [
+                "Lunar Light",
+                "Dark Side of the Moon"
+            ],
+            "new": true
+        },
+        {
+            "id": 75,
+            "name": "Dell Precision 5820 Tower",
+            "brand": "Dell",
+            "image": "desktop.jpg",
+            "category": "Workstation PC",
+            "product_type": "desktops",
+            "country": "United States",
+            "description": "The Dell Precision 5820 Tower is a high-end workstation designed for demanding professional tasks.",
+            "price": 2299,
+            "discounted_price": 2199,
+            "availability": true,
+            "rating": 4.7,
+            "colors": [
+                "Black"
+            ],
+            "new": false
+        },
+        {
+            "id": 76,
+            "name": "Lenovo IdeaCentre 510A",
+            "brand": "Lenovo",
+            "image": "desktop.jpg",
+            "category": "Desktop",
+            "product_type": "desktops",
+            "country": "China",
+            "description": "The Lenovo IdeaCentre 510A is a reliable and budget-friendly desktop computer suitable for everyday use.",
+            "price": 499,
+            "discounted_price": 449,
+            "availability": true,
+            "rating": 4.0,
+            "colors": [
+                "Black"
+            ],
+            "new": true
+        },
+        {
+            "id": 77,
+            "name": "Lenovo ThinkCentre M720",
+            "brand": "Lenovo",
+            "image": "desktop.jpg",
+            "category": "Desktop",
+            "product_type": "desktops",
+            "country": "China",
+            "description": "The Lenovo ThinkCentre M720 is a compact and powerful desktop computer designed for business productivity.",
+            "price": 799,
+            "discounted_price": 749,
+            "availability": true,
+            "rating": 4.5,
+            "colors": [
+                "Black",
+                "Silver"
+            ],
+            "new": false
+        },
+        {
+            "id": 78,
+            "name": "Lenovo Legion Tower 5i",
+            "brand": "Lenovo",
+            "image": "desktop.jpg",
+            "category": "Gaming Desktop",
+            "product_type": "desktops",
+            "country": "China",
+            "description": "The Lenovo Legion Tower 5i is a high-performance gaming desktop with a stylish design and advanced cooling system.",
+            "price": 1399,
+            "discounted_price": 1299,
+            "availability": true,
+            "rating": 4.8,
+            "colors": [
+                "Raven Black",
+                "Phantom Blue"
+            ],
+            "new": true
+        },
+        {
+            "id": 79,
+            "name": "ASUS VivoMini VC66",
+            "brand": "ASUS",
+            "image": "desktop.jpg",
+            "category": "Mini PC",
+            "product_type": "desktops",
+            "country": "Taiwan",
+            "description": "The ASUS VivoMini VC66 is a versatile and compact mini PC designed for office productivity.",
+            "price": 649,
+            "discounted_price": 599,
+            "availability": true,
+            "rating": 4.1,
+            "colors": [
+                "Black",
+                "White"
+            ],
+            "new": false
+        },
+        {
+            "id": 80,
+            "name": "ASUS ProArt PA90",
+            "brand": "ASUS",
+            "image": "desktop.jpg",
+            "category": "Workstation PC",
+            "product_type": "desktops",
+            "country": "Taiwan",
+            "description": "The ASUS ProArt PA90 is a high-end workstation desktop for demanding creative professionals.",
+            "price": 2199,
+            "discounted_price": 2099,
+            "availability": true,
+            "rating": 4.8,
+            "colors": [
+                "Black"
+            ],
+            "new": true
+        }
+    ],
+    "details": [
+        {
+            "productType": "laptops",
+            "details": [
+                "Intel Core i7-10700F",
+                "Intel H410",
+                "WHITE",
+                "NVIDIA MSI GeForce RTX 2060 SUPER 8GB AERO ITX GDDR6",
+                "SO-DIMM 16GB (16GB x 1) DDR4 2666MHz",
+                "2 total slots (64GB Max)",
+                "512GB (1 x 512GB) M.2 NVMe PCIe GEN3x4 SSD 2TB (2.5) 5400RPM",
+                "Gaming Keyboard GK30 + Gaming Mouse GM11",
+                "3.5 HDD (0/0)",
+                "2.5 HDD/SSD(1/0), M.2 (1/0)",
+                "Intel WGI219Vethernet (10/100/1000M)",
+                "AX200 (WIFI 6)+BT5.1",
+                "PSU 330W",
+                "Fan Cooler"
+            ]
+        },
+        {
+            "productType": "networking-devices",
+            "details": [
+                "Model Cisco ISR 4321",
+                "WAN Interfaces 2 x Gigabit Ethernet",
+                "LAN Interfaces 2 x Gigabit Ethernet",
+                "VPN Support IPsec, SSL VPN",
+                "Firewall Zone-Based Firewall",
+                "QoS (Quality of Service) Supported",
+                "Routing Protocols OSPF, BGP, EIGRP, RIP",
+                "Management Interface Console, SSH, Web-based GUI",
+                "Model Cisco C3650-48TS-L",
+                "Ports 48 x Gigabit Ethernet (RJ-45)",
+                "Uplink Ports 4 x SFP+",
+                "PoE (Power over Ethernet) Supported (Optional)",
+                "VLAN Support Yes",
+                "Stacking Support Yes (Optional)",
+                "Management Interface Console, Telnet, SSH, Web-based GUI",
+                "Wireless Standards 802.11a/b/g/n/ac",
+                "Dual-Band Support 2.4GHz and 5GHz",
+                "Max Data Rate Up to 1.3 Gbps",
+                "MIMO (Multiple-Input, Multiple-Output) 3x3 MIMO",
+                "Power over Ethernet (PoE) Support Yes",
+                "Controller Software Ubiquiti UniFi Controller",
+                "Firewall Throughput Up to 1 Gbps",
+                "Threat Prevention Throughput Up to 500 Mbps",
+                "Concurrent Sessions 50,000",
+                "VPN Throughput Up to 300 Mbps",
+                "Interfaces 4 x Gigabit Ethernet",
+                "Management Interface Console, SSH, Web-based GUI",
+                "Drive Bays 2 x 3.5 or 2.5 SATA HDD/SSD",
+                "RAID Support RAID 0, RAID 1, JBOD",
+                "Max Internal Capacity Up to 32TB (2 x 16TB drives)",
+                "File Sharing Protocols SMB, AFP, NFS, FTP, WebDAV",
+                "Data Backup Synology Hyper Backup",
+                "Ethernet Cables Cat 6 or higher, lengths as required",
+                "Fiber Optic Cables Single-mode or Multi-mode, lengths as required",
+                "Firewall Throughput Up to 300 Mbps",
+                "VPN Throughput Up to 100 Mbps",
+                "Concurrent Sessions 20,000",
+                "Interfaces 8 x Gigabit Ethernet (2 PoE ports)",
+                "VPN Support IPsec, SSL VPN",
+                "Management Interface Console, ASDM (Adaptive Security Device Manager)",
+                "Features Real-time monitoring, alerts, performance analysis",
+                "Interface Web-based GUI",
+                "Uninterruptible Power Supply (UPS)",
+                "Capacity 1500VA / 900W",
+                "Outlets 10 (Battery Backup), 2 (Surge Protection)",
+                "Communication USB, Serial, Ethernet (optional)"
+            ]
+        },
+        {
+            "productType": "printers-scanners",
+            "details": [
+                "Brand: XYZ Corporation",
+                "Model: XYZ-2000",
+                "Printing Technology: Inkjet",
+                "Print Resolution: Up to 1200 dpi",
+                "Printing Speed: 25 pages per minute (black and white)",
+                "Supported Paper Sizes: Letter, Legal, A4, A5, B5, Envelopes",
+                "Input Tray Capacity: 250 sheets",
+                "Output Tray Capacity: 100 sheets",
+                "Duplex Printing: Yes",
+                "Connectivity: USB 2.0, Wi-Fi",
+                "Supported Operating Systems: Windows, macOS, Linux",
+                "Mobile Printing Support: Yes",
+                "Display: 2.4-inch LCD",
+                "Dimensions: 16.8\" x 12.1\" x 9.5\"",
+                "Weight: 14.3 lbs",
+                "Power Consumption: 25 watts (printing), 3.2 watts (standby)",
+                "Noise Level: 50 dB",
+                "Warranty: 1-year limited warranty",
+                "Additional Features: Scan, Copy, Cloud Printing"
+            ]
+        },
+        {
+            "productType": "gaming-monitors",
+            "details": [
+                "Brand: XYZ Gaming",
+                "Model: XYZ-MONITOR2000",
+                "Screen Size: 27 inches",
+                "Panel Type: IPS",
+                "Resolution: 2560 x 1440 (QHD)",
+                "Refresh Rate: 165Hz",
+                "Response Time: 1ms (GtG)",
+                "Aspect Ratio: 16:9",
+                "Brightness: 350 cd/m²",
+                "Contrast Ratio: 1000:1",
+                "Viewing Angle: 178°(H) / 178°(V)",
+                "Color Gamut: 95% DCI-P3",
+                "HDR Support: HDR400",
+                "Adaptive Sync: AMD FreeSync Premium",
+                "Connectivity: 2x HDMI 2.0, 1x DisplayPort 1.4, 2x USB 3.0",
+                "Audio: 2x 2W Built-in Speakers",
+                "Stand: Height Adjustable, Tilt, Swivel, Pivot",
+                "VESA Mount Compatible: Yes (100x100mm)",
+                "Dimensions (with stand): 24.1\" x 19.9\" x 9.8\"",
+                "Weight (with stand): 14.8 lbs",
+                "Power Consumption: 45W (typical), <0.5W (standby)",
+                "Frameless Design: Yes, ultra-thin bezels",
+                "Warranty: 3-year limited warranty",
+                "Additional Features: GamePlus, GameVisual, Flicker-Free, Low Blue Light"
+            ]
+        },
+        {
+            "productType": "desktops",
+            "details": [
+                "Brand: ABC Computers",
+                "Model: ABC-PC2000",
+                "Processor: Intel Core i7-10700K (8 cores, 16 threads, up to 5.1 GHz)",
+                "Graphics: NVIDIA GeForce RTX 3080 (10GB GDDR6X VRAM)",
+                "Memory: 32GB DDR4 RAM (3200 MHz)",
+                "Storage: 1TB NVMe SSD + 2TB HDD",
+                "Operating System: Windows 10 Pro",
+                "Motherboard: Intel Z590 chipset",
+                "Optical Drive: 24x DVD-RW",
+                "Connectivity: Gigabit Ethernet, Wi-Fi 6, Bluetooth 5.0",
+                "USB Ports: 6x USB 3.2 Gen 1, 4x USB 2.0",
+                "Video Outputs: 1x HDMI, 3x DisplayPort, 1x DVI-D",
+                "Audio: 7.1-channel HD Audio",
+                "Expansion Slots: 2x PCIe x16, 2x PCIe x1",
+                "Cooling: Air-cooled with 3 fans",
+                "Case: Mid Tower ATX case with tempered glass side panel",
+                "Power Supply: 750W 80+ Gold Certified",
+                "Dimensions: 17.3\" x 8.5\" x 18.7\"",
+                "Weight: 25 lbs",
+                "Warranty: 2-year limited warranty",
+                "Additional Features: RGB lighting, USB Type-C, SD card reader"
+            ]
+        }
+    ],
+    "catalog-filters": [
+        {
+            "product_type": "laptops",
+            "items": [
+                {
+                    "title": "Category",
+                    "items": [
+                        {
+                            "title": "Laptops",
+                            "query": "category=Laptop"
+                        },
+                        {
+                            "title": "Ultrabooks",
+                            "query": "category=Ultrabook"
+                        },
+                        {
+                            "title": "Convertible Laptops",
+                            "query": "category=Convertible Laptop"
+                        }
+                    ]
+                },
+                {
+                    "title": "Brand",
+                    "items": [
+                        {
+                            "title": "HP",
+                            "query": "brand=HP"
+                        },
+                        {
+                            "title": "Lenovo",
+                            "query": "brand=Lenovo"
+                        },
+                        {
+                            "title": "Acer",
+                            "query": "brand=Acer"
+                        },
+                        {
+                            "title": "Dell",
+                            "query": "brand=Dell"
+                        },
+                        {
+                            "title": "Razer",
+                            "query": "brand=Razer"
+                        },
+                        {
+                            "title": "ASUS",
+                            "query": "brand=ASUS"
+                        },
+                        {
+                            "title": "Microsoft",
+                            "query": "brand=Microsoft"
+                        }
+                    ]
+                },
+                {
+                    "title": "Price",
+                    "items": [
+                        {
+                            "title": "$0.00 - $1,000.00",
+                            "query": "price_gte=0&price_lte=1000"
+                        },
+                        {
+                            "title": "$1,000.00 - $2,000.00",
+                            "query": "price_gte=1000&price_lte=2000"
+                        },
+                        {
+                            "title": "$2,000.00 - $3,000.00",
+                            "query": "price_gte=2000&price_lte=3000"
+                        },
+                        {
+                            "title": "$3,000.00 - $4,000.00",
+                            "query": "price_gte=3000&price_lte=4000"
+                        },
+                        {
+                            "title": "$4,000.00 - $5,000.00",
+                            "query": "price_gte=4000&price_lte=5000"
+                        },
+                        {
+                            "title": "$5,000.00 - $6,000.00",
+                            "query": "price_gte=5000&price_lte=6000"
+                        },
+                        {
+                            "title": "$6,000.00 - $7,000.00",
+                            "query": "price_gte=6000&price_lte=7000"
+                        },
+                        {
+                            "title": "$7,000.00 And Above",
+                            "query": "price_gte=7000"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "product_type": "desktops",
+            "items": [
+                {
+                    "title": "Category",
+                    "items": [
+                        {
+                            "title": "All-in-One PC",
+                            "query": "category=All-in-One PC"
+                        },
+                        {
+                            "title": "Desktop PC",
+                            "query": "category=Desktop PC"
+                        },
+                        {
+                            "title": "Gaming Desktop",
+                            "query": "category=Gaming Desktop"
+                        },
+                        {
+                            "title": "Workstation PC",
+                            "query": "category=Workstation PC"
+                        },
+                        {
+                            "title": "Business PC",
+                            "query": "category=Gaming Desktop"
+                        }
+                    ]
+                },
+                {
+                    "title": "Brand",
+                    "items": [
+                        {
+                            "title": "HP",
+                            "query": "brand=HP"
+                        },
+                        {
+                            "title": "Lenovo",
+                            "query": "brand=Lenovo"
+                        },
+                        {
+                            "title": "Acer",
+                            "query": "brand=Acer"
+                        },
+                        {
+                            "title": "Dell",
+                            "query": "brand=Dell"
+                        },
+                        {
+                            "title": "ASUS",
+                            "query": "brand=ASUS"
+                        }
+                    ]
+                },
+                {
+                    "title": "Price",
+                    "items": [
+                        {
+                            "title": "$0.00 - $1,000.00",
+                            "query": "price_gte=0&price_lte=1000"
+                        },
+                        {
+                            "title": "$1,000.00 - $2,000.00",
+                            "query": "price_gte=1000&price_lte=2000"
+                        },
+                        {
+                            "title": "$2,000.00 - $3,000.00",
+                            "query": "price_gte=2000&price_lte=3000"
+                        },
+                        {
+                            "title": "$3,000.00 - $4,000.00",
+                            "query": "price_gte=3000&price_lte=4000"
+                        },
+                        {
+                            "title": "$4,000.00 - $5,000.00",
+                            "query": "price_gte=4000&price_lte=5000"
+                        },
+                        {
+                            "title": "$5,000.00 - $6,000.00",
+                            "query": "price_gte=5000&price_lte=6000"
+                        },
+                        {
+                            "title": "$6,000.00 - $7,000.00",
+                            "query": "price_gte=6000&price_lte=7000"
+                        },
+                        {
+                            "title": "$7,000.00 And Above",
+                            "query": "price_gte=7000"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "product_type": "networking-devices",
+            "items": [
+                {
+                    "title": "Category",
+                    "items": [
+                        {
+                            "title": "Managed Switch",
+                            "query": "category=Managed Switch"
+                        },
+                        {
+                            "title": "Wireless Router",
+                            "query": "category=Wireless Router"
+                        },
+                        {
+                            "title": "Security Gateway",
+                            "query": "category=Security Gateway"
+                        },
+                        {
+                            "title": "Mesh WiFi System",
+                            "query": "category=Mesh WiFi System"
+                        },
+                        {
+                            "title": "Unmanaged Switch",
+                            "query": "category=Unmanaged Switch"
+                        },
+                        {
+                            "title": "Routerboard",
+                            "query": "category=Routerboard"
+                        },
+                        {
+                            "title": "Unmanaged Switch",
+                            "query": "category=Unmanaged Switch"
+                        },
+                        {
+                            "title": "Managed PoE Switch",
+                            "query": "category=Managed PoE Switch"
+                        },
+                        {
+                            "title": "Cloud Managed Security Gateway",
+                            "query": "category=Cloud Managed Security Gateway"
+                        }
+                    ]
+                },
+                {
+                    "title": "Brand",
+                    "items": [
+                        {
+                            "title": "Cisco",
+                            "query": "brand=Cisco"
+                        },
+                        {
+                            "title": "TP-Link",
+                            "query": "brand=TP-Link"
+                        },
+                        {
+                            "title": "Netgear",
+                            "query": "brand=Netgear"
+                        },
+                        {
+                            "title": "Ubiquiti",
+                            "query": "brand=Ubiquiti"
+                        },
+                        {
+                            "title": "Linksys",
+                            "query": "brand=Linksys"
+                        },
+                        {
+                            "title": "D-Link",
+                            "query": "brand=D-Link"
+                        },
+                        {
+                            "title": "Asus",
+                            "query": "brand=Asus"
+                        },
+                        {
+                            "title": "MikroTik",
+                            "query": "brand=MikroTik"
+                        },
+                        {
+                            "title": "Tenda",
+                            "query": "brand=Tenda"
+                        },
+                        {
+                            "title": "Zyxel",
+                            "query": "brand=Zyxel"
+                        }
+                    ]
+                },
+                {
+                    "title": "Price",
+                    "items": [
+                        {
+                            "title": "$0.00 - $100.00",
+                            "query": "price_gte=0&price_lte=100"
+                        },
+                        {
+                            "title": "$100.00 - $500.00",
+                            "query": "price_gte=100&price_lte=500"
+                        },
+                        {
+                            "title": "$500.00 - $1,000.00",
+                            "query": "price_gte=500&price_lte=1000"
+                        },
+                        {
+                            "title": "$1,000.00 - And Above",
+                            "query": "price_gte=1000"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "product_type": "printers-scanners",
+            "items": [
+                {
+                    "title": "Category",
+                    "items": [
+                        {
+                            "title": "All-in-One Printer-Scanner",
+                            "query": "category=All-in-One Printer-Scanner"
+                        },
+                        {
+                            "title": "Multifunction Laser Printer-Scanner",
+                            "query": "category=Multifunction Laser Printer-Scanner"
+                        },
+                        {
+                            "title": "Wireless All-in-One Printer-Scanner",
+                            "query": "category=Wireless All-in-One Printer-Scanner"
+                        },
+                        {
+                            "title": " Monochrome Laser Printer-Scanner",
+                            "query": "category=Monochrome Laser Printer-Scanner"
+                        },
+                        {
+                            "title": "Document Scanner",
+                            "query": "category=Document Scanner"
+                        },
+                        {
+                            "title": "Flatbed Photo Scanner",
+                            "query": "category=Flatbed Photo Scanner"
+                        }
+                    ]
+                },
+                {
+                    "title": "Brand",
+                    "items": [
+                        {
+                            "title": "Epson",
+                            "query": "brand=Epson"
+                        },
+                        {
+                            "title": "HP",
+                            "query": "brand=HP"
+                        },
+                        {
+                            "title": "Canon",
+                            "query": "brand=Canon"
+                        },
+                        {
+                            "title": "Brother",
+                            "query": "brand=Brother"
+                        },
+                        {
+                            "title": "Fujitsu",
+                            "query": "brand=Fujitsu"
+                        }
+                    ]
+                },
+                {
+                    "title": "Price",
+                    "items": [
+                        {
+                            "title": "$0.00 - $100.00",
+                            "query": "price_gte=0&price_lte=100"
+                        },
+                        {
+                            "title": "$100.00 - $500.00",
+                            "query": "price_gte=100&price_lte=500"
+                        },
+                        {
+                            "title": "$500.00 - $1,000.00",
+                            "query": "price_gte=500&price_lte=1000"
+                        },
+                        {
+                            "title": "$1,000.00 - And Above",
+                            "query": "price_gte=1000"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "product_type": "gaming-monitors",
+            "items": [
+                {
+                    "title": "Brand",
+                    "items": [
+                        {
+                            "title": "Asus",
+                            "query": "brand=Asus"
+                        },
+                        {
+                            "title": "Acer",
+                            "query": "brand=Acer"
+                        },
+                        {
+                            "title": "BenQ",
+                            "query": "brand=BenQ"
+                        },
+                        {
+                            "title": "LG",
+                            "query": "brand=LG"
+                        },
+                        {
+                            "title": "ViewSonic",
+                            "query": "brand=ViewSonic"
+                        }
+                    ]
+                },
+                {
+                    "title": "Price",
+                    "items": [
+                        {
+                            "title": "$0.00 - $100.00",
+                            "query": "price_gte=0&price_lte=100"
+                        },
+                        {
+                            "title": "$100.00 - $500.00",
+                            "query": "price_gte=100&price_lte=500"
+                        },
+                        {
+                            "title": "$500.00 - $1,000.00",
+                            "query": "price_gte=500&price_lte=1000"
+                        },
+                        {
+                            "title": "$1,000.00 - And Above",
+                            "query": "price_gte=1000"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+.product-list {
+    display: grid;
+    justify-items: center;
+    grid-template-columns: repeat(auto-fit,minmax(233px,1fr));
+}
+
+.product-list--horizontal {
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width:992px){
+    .product-list {
+        display: flex;
+        overflow-x: scroll;
+    }
+}

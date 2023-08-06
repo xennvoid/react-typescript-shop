@@ -1,0 +1,23 @@
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.image {
+    display: block;
+}
+
+.description {
+    padding: 10px 25px 0;
+    text-align: center;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.date {
+    padding: 10px 0;
+    font-size: 10px;
+    line-height: 15px;
+    color: #A2A6B0;
+}

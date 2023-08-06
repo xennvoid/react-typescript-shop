@@ -1,0 +1,103 @@
+.product {
+    padding: 10px 25px;
+    max-width: 234px;
+    cursor: pointer;
+    background-color: #fff;
+}
+
+.product:hover {
+    position: relative;
+}
+
+.product:hover .actions{
+    position: absolute;
+    top: 15px;
+    right: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.availability {
+    margin-bottom: 7px;
+}
+
+.available, .unavailable {
+    display: flex;
+    align-items: center;
+    column-gap: 5px;
+    font-size: 10px;
+    line-height: 21px;
+}
+
+.available {
+    color: #78A962;
+}
+
+.unavailable {
+    color: #C94D3F;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    padding: 0 42px;
+}
+
+.image img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+.rating {
+    margin-bottom: 10px;
+}
+
+.name {
+    max-width: 185px;
+    margin-bottom: 10px;
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.name a {
+    color: #000;
+}
+
+.name:hover a{
+    text-decoration: underline;
+    color: #C94D3F;
+}
+
+.price {
+    margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 20px;
+    text-decoration: line-through;
+    color: #666666;
+}
+
+.discounted {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 25px;
+    color: #000000;
+}
+
+.add {
+    display: none;
+    background-color: #fff;
+}
+
+.actions {
+    display: none;
+}
+
+.actions > * {
+    margin-bottom: 5px;
+}
+
+.actions > *:last-child {
+    margin-bottom: 0;
+}

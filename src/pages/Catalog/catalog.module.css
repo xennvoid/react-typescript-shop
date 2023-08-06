@@ -1,0 +1,18 @@
+.split {
+    display: grid;
+    grid-template-columns: 17% 83%;
+    align-items: flex-start;
+}
+
+.display {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.pagination-bar {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 1rem 0;
+}

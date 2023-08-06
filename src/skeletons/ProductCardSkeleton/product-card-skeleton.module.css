@@ -1,0 +1,13 @@
+.row {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    align-items: center;
+}
+
+.row :first-child {
+    justify-self: center;
+}
+
+.description {
+
+}

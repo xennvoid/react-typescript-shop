@@ -1,0 +1,42 @@
+.review {
+    display: flex;
+    flex-direction: column;
+}
+
+.description {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 7px;
+}
+
+@media screen and (max-width: 768px) {
+    .description {
+        gap: 10px;
+    }
+}
+
+.text {
+    position: relative;
+    align-self: flex-end;
+    max-width: 846px;
+    font-size: 18px;
+    line-height: 27px;
+}
+
+.quotes {
+    font-size: 96px;
+    line-height: 144px;
+}
+
+.author {
+    align-self: flex-end;
+    margin-bottom: 20px;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+.actions {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+}
+
+:root {
+    --clr-blue: #0156FF;
+    --clr-light-purple: #F5F7FF;
+
+    --fs-xxl: 38px;
+    --fs-xl: 22px;
+    --fs-large: 18px;
+    --fs-medium: 16px;
+    --fs-normal: 14px;
+    --fs-small: 12px;
+    --fs-xs: 10px;
+}
+
+@media screen and (max-width:768px) {
+    
+    :root {
+        --fs-xxl: 26px;
+        --fs-xl: 18px;
+        --fs-large: 13px;
+        --fs-medium: 14px;
+        --fs-normal: 12px;
+    }
+}

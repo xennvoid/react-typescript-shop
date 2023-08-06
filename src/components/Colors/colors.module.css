@@ -1,0 +1,23 @@
+.colors {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.circle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 37px;
+    height: 37px;
+    border: 2px solid var(--clr-blue);
+    border-radius: 50%;
+    background-color: #fff;
+}
+
+.color {
+    width: 31px;
+    height: 31px;
+    border-radius: 50%;
+    cursor: pointer;
+}

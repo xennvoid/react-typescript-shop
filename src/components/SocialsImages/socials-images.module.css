@@ -1,0 +1,12 @@
+.social {
+    display: flex;
+}
+
+.social > * {
+    margin-right: 13.5px;
+    cursor: pointer;
+}
+
+.social > *:last-child {
+    margin-right: 0;
+}

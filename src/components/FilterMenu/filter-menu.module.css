@@ -1,0 +1,18 @@
+.filters {
+    display: flex;
+    column-gap: 25px;
+}
+
+.filter {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 22px;
+    color: #838383;
+    cursor: pointer;
+}
+
+.selected {
+    color: #000000;
+    border-bottom: 2px solid var(--clr-blue);
+    transition: 1s color ease;
+}

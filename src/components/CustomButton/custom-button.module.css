@@ -1,0 +1,19 @@
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: .5rem 2rem;
+    border: 2px solid var(--clr-blue);
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+    color: var(--clr-blue);
+    cursor: pointer;
+    background-color: #fff; /*or inherit*/
+}
+
+.reverse {
+    color: #FFF;
+    background-color: var(--clr-blue);
+}

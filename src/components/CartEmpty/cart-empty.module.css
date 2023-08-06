@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.image img{
+    max-width: 100%;
+}
+
+.title {
+    font-size: 32px;
+}
+
+.text {
+
+}

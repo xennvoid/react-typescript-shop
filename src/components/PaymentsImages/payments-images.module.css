@@ -1,0 +1,16 @@
+.payments {
+    display: flex;
+    align-items: center;
+}
+
+.payments > * {
+    margin-right: 10px;
+}
+
+.payments > *:last-child {
+    margin-right: 0;
+}
+
+.payments img {
+    display: block;
+}

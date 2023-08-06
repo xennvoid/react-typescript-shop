@@ -1,0 +1,7 @@
+.margin > * {
+    margin-bottom: 30px;
+}
+
+.slider img{
+    max-width: 100%;
+}

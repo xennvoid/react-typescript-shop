@@ -1,0 +1,27 @@
+.container {
+    max-width: 300px;
+}
+
+.title {
+    margin-bottom: 25px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 100%;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.list {
+
+}
+
+.item {
+    margin-bottom: 5px;
+    font-size: 13px;
+    line-height: 140%;
+    color: #fff;
+    cursor: pointer;
+}
+
+.item:last-child {
+    margin-bottom: 0;
+}

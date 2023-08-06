@@ -1,0 +1,16 @@
+.offers {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 0 auto;
+    padding: 45px 0;
+    max-width: 1055px;
+}
+
+@media screen and (max-width: 768px) {
+    .offers {
+        flex-direction: column;
+    }
+}
